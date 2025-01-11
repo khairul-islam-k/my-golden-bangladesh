@@ -1,0 +1,48 @@
+.fira-sans-thin {
+    font-family: "Fira Sans", serif;
+    font-style: normal;
+  }  
+
+  /* Bannar style */
+  .bannar{
+    max-width: 1080px;
+    margin-left:40px;
+    padding:80px 100px;
+    background-color:rgb(198, 228, 214);
+    border-radius:24px;
+    display:flex;
+    justify-content:space-between;
+  }
+  .bannar-text {
+    color: rgba(14, 14, 14, 0.5);
+font-size: 24px;
+font-weight: 500;
+line-height: 29px;
+letter-spacing: 0%;
+  }
+  .heading {
+    color: rgb(14, 14, 14);
+
+font-size: 56px;
+font-weight: 700;
+line-height: 67px;
+letter-spacing: 0%;
+  }
+  .bannar-content{
+    width:622px;
+  }
+
+
+  /* shared field */
+  .btn-green {
+    color: rgb(255, 255, 255);
+font-family: Fira Sans;
+font-size: 18px;
+font-weight: 600;
+line-height: 22px;
+letter-spacing: 0%;
+padding: 17px 34px 17px 34px;
+border-radius: 8px;
+
+background: rgb(0, 106, 80);
+  }
