@@ -224,3 +224,76 @@ font-weight: 400;
 line-height: 24px;
 letter-spacing: 0%;
   }
+
+  /* Donation amount */
+  .donate-board {
+    text-align:center;
+  }
+  .don-headate {
+    color: rgb(14, 14, 14);
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+  }
+  .donate-description {
+    color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+  }
+
+  /* navigaion */
+  nav>ul {
+    display:flex;
+    justify-content: center;
+    gap:24px;
+
+  }
+  nav li{
+    list-style:none;
+    padding:40px;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+  }
+  nav li:hover {
+background-color:lightgray;
+  }
+  nav li a{
+    text-decoration:none;
+    color: rgba(14, 14, 14, 0.8);
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+  }
+  .nav500 {
+    background-color:greenyellow;
+  }
+  .other {
+    
+    
+    padding: 20px 40px;
+   
+border: 1px solid rgba(14, 14, 14, 0.15);
+background: rgb(255, 255, 255);
+  }
+  .tk{
+    text-decoration:none;
+    color: rgba(14, 14, 14, 0.3);
+
+font-size: 20px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+
+  }
+  .other:hover {
+   background-color:lightgrey;
+  }
+  .btn-margin {
+    margin-top:32px;
+  }
